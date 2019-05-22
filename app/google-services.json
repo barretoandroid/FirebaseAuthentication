@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "375398953605",
+    "firebase_url": "https://todo-f1c6a.firebaseio.com",
+    "project_id": "todo-f1c6a",
+    "storage_bucket": "todo-f1c6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375398953605:android:d8f229da3b5f0a46",
+        "android_client_info": {
+          "package_name": "br.com.rbarreto.firebaseauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375398953605-gu3jk9ggb8ual25r1hfb3fg8pf949m2h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.rbarreto.firebaseauthentication",
+            "certificate_hash": "08e990f2aa1ee9e10e59b37ccc26ee1d2525b665"
+          }
+        },
+        {
+          "client_id": "375398953605-ui3th0i2v4a5pae3q1dgpfcu6ttt6p5b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.rbarreto.firebaseauthentication",
+            "certificate_hash": "0e852857e18ba1553272e06806911c82f97e52fa"
+          }
+        },
+        {
+          "client_id": "375398953605-55em4c7q7o0bs4b674icr0lpkbpifcpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVfkS60JR9SLDmKolqa4XcEysaIeXiYpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375398953605-55em4c7q7o0bs4b674icr0lpkbpifcpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375398953605:android:2a3f037e98f3679d",
+        "android_client_info": {
+          "package_name": "com.example.rodrigobarreto1.todofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375398953605-hsu5rtfl429m8p26j3j8nc37e45q97ra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rodrigobarreto1.todofirebase",
+            "certificate_hash": "b9e6c533a16cbe65529735bb3b03eb198364e6dd"
+          }
+        },
+        {
+          "client_id": "375398953605-55em4c7q7o0bs4b674icr0lpkbpifcpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVfkS60JR9SLDmKolqa4XcEysaIeXiYpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375398953605-55em4c7q7o0bs4b674icr0lpkbpifcpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
